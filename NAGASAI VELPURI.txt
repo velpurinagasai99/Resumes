@@ -1,0 +1,48 @@
+NAGASAI VELPURI
+velpurinagasai99@gmail.com
+6473389549
+https://www.linkedin.com/in/mathlovernagasai/
+https://github.com/velpurinagasai99
+
+
+TECHNICAL SKILLS 
+Languages: SQL, Python, Scala, HiveQL, C++, Java, HTML
+Tools: SSIS, SSRS, Spark Shell, Linux, VCS-Git, Jenkins, VS Code, IntelliJ, MS Office
+Technologies: ETL, Machine Learning, Apache Spark, Hadoop, Data Visualization, Competitive Programming, DSA, Deep Learning and Neural Networks, Natural Language Processing.
+Process: Agile, Jira, Confluence
+					  
+EDUCATION  
+Postgraduate Certificate in Artificial Intelligence and Machine Learning                                  May 2023 – Jan 2025
+Lambton College
+
+Bachelor of Technology in Electronics and Communication Engineering 		      			  Jun 2016 – May 2020  
+K L University
+
+EMPLOYMENT EXPERIENCE  
+Software Engineer | Database Administrator					                    	  Mar 2021 – Apr 2023  
+Innova Solutions  	 
+•	Maintained the Database-related stored procedures and data in an order management solutions project, created Database design for a CRM module.
+•	Narrowed down the search response time by 200% by rewriting the Joins, adding indexes and using FULL TEXT search concept, hence performance tuning is achieved.
+•	Monitored the performance of DB server. Used Performance monitor tool and New relic tool for analysing the load on server.
+•	Migrated order and customer related data from upstream system, leading exposure to ETL tools.
+•	Developed effective stored procedures for Dashboard's screen which includes reports and analysis of orders placed by users.
+•	After production release, worked as production support engineer, where interaction with end clients, finding the issues in application by debugging logs and doing quick fix is accomplished.
+•	Updated certificates of Dev, Test environments for the application and Configured Jenkins server. Also did deployments to each environment.
+•	Worked on backend tasks like updating service classes and writing queries for repositories.
+ 
+Associate Software Engineer 							                     	  Jan 2021 – Mar 2021  
+Innova Solutions	 
+•	Worked on migrating a retail project (Tech style) from SQL server to Snowflake.
+•	Built optimized queries that generated reports to clients on need basis.
+ 
+Trainee Software Engineer 								        	  Dec 2019 – Jan 2021  
+Innova Solutions 	 
+•	Got trained in various domains which includes .NET, web design and SQL training.
+•	Developed a sample login web page, which stores logins and uses APIs to fetch the data that store in their login.
+
+PROJECTS AND CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Big Data - Trendy Tech:
+•	Created Map Reduce Jobs in Scala, HiveQL with best practices resulting optimization. About to stream them using Apache Spark – Kafka. Implemented all the concepts of Sqoop, HBase.
+•	Developed Scala codes using Broadcast and partition by, bucket by in various file formats using both low level code-RDDs and Structured APIs-Dataframe and Datasets
+•	Implementing these in ASW using EMR and S3. Configuring the instances and fields/regions. Working on Data streaming using Kafka.
